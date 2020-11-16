@@ -1,0 +1,6 @@
+//2nd links for integrate
+checkmark: https://ibb.co/zVwQtkW, https://i.ibb.co/Wv1GRTN/checkmark.png;
+cross: https://svgur.com/s/N37, https://svgur.com/i/N37.svg;
+circle: https://svgur.com/s/N3j, https://svgur.com/i/N3j.svg;
+
+
